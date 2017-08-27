@@ -39,9 +39,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
-							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'images/sergio-rola-87793.jpg': 'center',
+							'images/tim-evans-88330.jpg': 'center',
+							'images/gemma-evans-131781.jpg': 'center'
 						},
 
 					// Delay.
